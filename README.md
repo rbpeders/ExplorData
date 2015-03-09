@@ -1,2 +1,2 @@
 # ExplorData
-Exploratory Data Analysis Repository for BP
+Exploratory Data Analysis Repository for Blake Pedersen
